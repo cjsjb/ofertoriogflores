@@ -49,7 +49,7 @@
 		d 2 e  |
 		fis 2 d'  |
 		\time 2/4
-		\times 2/3 { b 4 fis d }  |
+		b 8. fis d 8  |
 %% 30
 		\time 4/4
 		e 2 ~ e  |
@@ -59,7 +59,7 @@
 		fis 2 e  |
 %% 35
 		fis 2 d'  |
-		\times 2/3 { b 4 fis d } \times 2/3 { e fis gis }  |
+		b 8. fis d 8 e 8. fis gis 8  |
 		a 2 ~ a  |
 		\key a \minor
 		a 2 g  |
@@ -98,7 +98,7 @@
 %% 65
 		fis 2 d'  |
 		\time 2/4
-		\times 2/3 { b 4 fis d }  |
+		b 8. fis d 8  |
 		\time 4/4
 		e 2 ~ e  |
 		a 2 gis  |
@@ -107,12 +107,12 @@
 		a 2 gis  |
 		fis 2 e  |
 		fis 2 d'  |
-		\times 2/3 { b 4 fis d } \times 2/3 { e b, gis, }  |
+		b 8. fis d 8 e 8. b, gis, 8  |
 		a, 2 ~ a,  |
 %% 75
-		\times 2/3 { b 4 fis d } \times 2/3 { e b, gis, }  |
+		b 8. fis d 8 e 8. b, gis, 8  |
 		a, 2 ~ a,  |
-		\times 2/3 { b 4 fis d } \times 2/3 { e fis gis }  |
+		b 8. fis d 8 e 8. fis gis 8  |
 		a 2 ~ a ~  |
 		a 2 r  |
 		\bar "|."
