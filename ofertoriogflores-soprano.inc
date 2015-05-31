@@ -45,8 +45,10 @@
 		a' 4 e' b' 8. e' 16 ~ e' 4  |
 		d'' 8. cis'' a' 8 b' 4 r8 a'  |
 		a' 4 fis' a' 8. fis' fis' 8  |
+		\time 2/4
 		d'' 8. cis'' a' 8  |
 %% 30
+		\time 4/4
 		b' 2. r8 a'  |
 		a' 4 e' b' 8. e' e' 8  |
 		d'' 8. cis'' a' 8 b' 4 r8 a'  |
@@ -88,7 +90,9 @@
 		d'' 8. cis'' a' 8 b' 4 r8 a'  |
 %% 65
 		a' 4 fis' a' 8. fis' fis' 8  |
+		\time 2/4
 		d'' 8. cis'' a' 8  |
+		\time 4/4
 		b' 2. r8 a'  |
 		a' 4 e' b' 8. e' e' 8  |
 		d'' 8. cis'' a' 8 b' 4 r8 a'  |
