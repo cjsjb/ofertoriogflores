@@ -6,7 +6,7 @@
 \header {
 	title = "Ofertorio"
 	instrument = "Soprano"
-	composer = "Gerado J. Flores"
+	composer = "P. Gerardo Javier Flores Cárdenas"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)

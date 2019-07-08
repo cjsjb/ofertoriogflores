@@ -5,7 +5,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Ofertorio"
-	composer = "Gerado J. Flores"
+	composer = "P. Gerardo Javier Flores Cárdenas"
 	instrument = "Violín"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
