@@ -12,8 +12,8 @@
 
 		\time 4/4
 		\clef "treble"
-		\key a \minor
 
+		\key a \minor
 		R1*4  |
 %% 5
 		c'' 2 b'  |
@@ -45,10 +45,8 @@
 		a' 2 e'  |
 		a' 2 b'  |
 		R1  |
-		\time 2/4
 		R2  |
 %% 30
-		\time 4/4
 		r8 e' 16 fis' gis' a' e'' 8 e' 16 fis' gis' a' b' gis' fis' e'  |
 		e'' 1 ~  |
 		e'' 2 r8 r16 cis'' 8 d'' 16 cis'' 8  |
@@ -90,9 +88,7 @@
 		a' 2 e'  |
 %% 65
 		R1  |
-		\time 2/4
 		R2  |
-		\time 4/4
 		r8 e' 16 fis' gis' a' e'' 8 e' 16 fis' gis' a' b' gis' fis' e'  |
 		e'' 1 ~  |
 		e'' 2 r8 r16 cis'' 8 d'' 16 cis'' 8  |

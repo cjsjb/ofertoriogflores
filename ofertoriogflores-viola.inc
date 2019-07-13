@@ -12,8 +12,8 @@
 
 		\time 4/4
 		\clef "C"
-		\key a \minor
 
+		\key a \minor
 		a 2 g  |
 		fis 2 f  |
 		a 2 g  |
@@ -48,10 +48,8 @@
 		a' 2 gis'  |
 		fis' 2 e'  |
 		R1  |
-		\time 2/4
 		b' 8. fis' d' 8  |
 %% 30
-		\time 4/4
 		e' 2 ~ e'  |
 		a' 2 gis'  |
 		fis' 2 e'  |
@@ -97,9 +95,7 @@
 		fis' 2 e'  |
 %% 65
 		R1  |
-		\time 2/4
 		b' 8. fis' d' 8  |
-		\time 4/4
 		e' 2 ~ e'  |
 		a' 2 gis'  |
 		fis' 2 e'  |
