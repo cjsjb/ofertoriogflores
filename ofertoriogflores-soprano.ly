@@ -5,8 +5,8 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Ofertorio"
-	instrument = "Soprano"
 	composer = "P. Gerardo Javier Flores Cárdenas"
+	instrument = "Soprano"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
@@ -18,8 +18,11 @@
 	first-page-number = 1
 }
 global = {
+	\time 4/4 \skip 1*28
+	\time 2/4 \skip 2*1
+	\time 4/4 \skip 1*36
+	\time 2/4 \skip 2*1
 	\time 4/4
-	\skip 1*77 \skip 2
 }
 globalTempo = {
 	\tempo 4 = 70  \skip 1*13
