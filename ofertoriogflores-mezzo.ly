@@ -6,6 +6,7 @@
 \header {
 	title = "Ofertorio"
 	composer = "P. Gerardo Javier Flores Cárdenas"
+	instrument = "Mezzosoprano"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
@@ -39,13 +40,7 @@ globalTempo = {
 
 		\include "ofertoriogflores-acordes.inc"
 		\new StaffGroup <<
-			\include "ofertoriogflores-soprano.inc"
 			\include "ofertoriogflores-mezzo.inc"
-		>>
-		\new StaffGroup <<
-			\include "ofertoriogflores-violin.inc"
-			\include "ofertoriogflores-viola.inc"
-			\include "ofertoriogflores-cello.inc"
 		>>
 
 	>>
