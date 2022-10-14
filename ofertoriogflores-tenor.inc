@@ -6,7 +6,7 @@
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "tenor" {
+	\context Voice = "voz-tenor" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
@@ -104,7 +104,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		Vi -- "no y" pan hoy "te o" -- fre -- ce __ mos
 		en u -- nión con nues -- tras vi __ das
 		pa -- ra que tú se __ as quien trans -- for -- me nues -- tro ser. __

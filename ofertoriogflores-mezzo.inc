@@ -99,7 +99,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzosoprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzosoprano" {
 		Uh __ uh __ uh __ uh__
 		uh uh uh __ uh. __
 
